@@ -20,6 +20,8 @@ David Irvine - https://github.com/dirvine
 
 Jeremy Kandah - https://github.com/jkandah
 
+Sam Yilmaz - https://github.com/Onat
+
 Introduction:
 ==========
 
