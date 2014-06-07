@@ -9,7 +9,7 @@ Introduction:
 This white paper seeks to put forth the economic and technical reasons that the digital tokens known as “App Coins” can develop a value in the market and maintain their value over the long term, should their associated application gain adoption by users. App Coins can be implemented for solid technical or economic reasons. However projects should think carefully about their particular application and evaluate if there are compelling technical or economic justifications for the creation of an App Coin or if a for-profit business model may be better suited than the or crowdfunding model involving a pre-sale of the tokens that gives access to the services.
 
 Definition for App Coins:
-App Coins are defined here as tokens that are native to Decentralized applications that have a digital token associated with their use or monetization. For a more general description of what a Decentralized Application is (outside of the economic and technical discussions below about the value of their digital tokens) see this white paper and wiki entry.
+App Coins are defined here as tokens that are native to Decentralized applications that have a digital token associated with their use or monetization. For a more general description of what a Decentralized Application is (outside of the economic and technical discussions below about the value of their digital tokens) see this white paper (https://github.com/DavidJohnstonCEO/DecentralizedApplications) and wiki entry.
 
 Table of Contents:
 ==========
@@ -167,13 +167,10 @@ References
 1) http://cs.umd.edu/~amiller/permacoin.pdf
 2) https://github.com/petertodd/timelock
 3) http://twister.net.co/
-4) [Bitcoin-development] Decentralized digital asset exchange with
-   honest pricing and market depth, Peter Todd, Feb 9th 2014,
-   https://www.mail-archive.com/bitcoin-development%40lists.sourceforge.net/msg03892.html
-5) https://bitcointalk.org/index.php?topic=146307.0
-6) NETWORK EFFECTS AND COMPETITION: 
-7) The Future of Crypto Currencies by Andreas Antonopoulos  
-
+4) [Bitcoin-development] Decentralized digital asset exchange with honest pricing and market depth, Peter Todd, Feb 9th 2014, http://goo.gl/ys5iXE
+6) NETWORK EFFECTS AND COMPETITION: http://goo.gl/gIWWLJ
+7) The Future of Crypto Currencies by Andreas Antonopoulos http://youtu.be/SHrjs7VkSGU 
+8) U.S. Apple Laptop Marketshare Graph http://goo.gl/sVlzGE
 
 Appendix Case Studies 
 ==========
@@ -191,20 +188,31 @@ Appendix Case Studies
 
 Section 1 - Why Mastercoins Have Value
 
+https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing
+
 See linked document.
 
 Section 2 - Why Ether Will Have Value
+
+https://docs.google.com/document/d/1yh88h6FRAiB9-1_G0xlz2pvDN1Xo7o376xLkGksLLpg/edit
 
 See linked document.
 
 Section 3 - Why Counterparty XCP Has Value
 
+https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/edit?usp=sharing
+
 See linked document.
 
 Section 4 - Why MaidSafeCoins Have Value
+
+http://blog.maidsafe.net/2014/05/14/the-economics-of-safecoin/
+
 See linked document.
 
 Section 5 - Why SWARM Coins Will Have Value
+
+https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
 
 See linked document.
 
@@ -226,8 +234,12 @@ Storj team please provide a link to your document.
 
 Section 10  - Why LTBCOIN Will Have Value
 
+https://docs.google.com/document/d/1r9D3pfv3sbqrNYvTIkRk2cEMEKegTBedVNKjeG6kDc4
+
 See linked document.
 
 Section 11 - Why API Coins Will Have Value
+
+https://github.com/DavidJohnstonCEO/APINetwork/blob/master/README.md
 
 See linked document.
