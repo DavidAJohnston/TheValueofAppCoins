@@ -10,12 +10,15 @@ David A. Johnston - https://github.com/DavidJohnstonCEO
 
 Joe Dietz - https://github.com/fractastical
 
+Ron Gross - https://github.com/ripper234
+
 With input from: 
 
 Peter Todd - https://github.com/petertodd
 
 David Irvine - https://github.com/dirvine
 
+Jeremy Kandah - https://github.com/jkandah
 
 Introduction:
 ==========
