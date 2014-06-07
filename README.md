@@ -89,6 +89,8 @@ Appendix: Case Studies
 
 11). API Coins
 
+12). Ripple XRP
+
 SECTION ONE - When Does an App Coin Model Make Sense?
 ==========
 General statements:
