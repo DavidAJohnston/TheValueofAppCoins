@@ -93,7 +93,7 @@ When Does an App Coin Model Make Sense?
 
 General statements:
 
-##1) Centralization or the Requirement of Trust is Unacceptable.
+#1) Centralization or the Requirement of Trust is Unacceptable.
 
 An App Coin system is just a decentralized consensus mechanism, and one can always replace decentralized consensus with centralized consensus when designing applications (see "hybrid systems" below)
 
