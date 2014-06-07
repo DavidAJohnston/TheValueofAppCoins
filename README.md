@@ -94,12 +94,15 @@ When Does an App Coin Model Make Sense?
 General statements:
 
 1) Centralization or the Requirement of Trust is Unacceptable.
+
 An App Coin system is just a decentralized consensus mechanism, and one can always replace decentralized consensus with centralized consensus when designing applications (see "hybrid systems" below)
 
 2) They Implement Functionality That Bitcoin Can't Provide.
+
 It is important to note that one should consider the capacities that Bitcoin can offer even though they may not be implemented yet. Therefore on should think of what the network "can't" offer rather than "doesn't" offer for the time being. There's enough development talent to have many open source applications written; assuming a more efficient competitor without the baggage of a coin won't pop up is foolish. There should be a solid technical or economic justification for why you're using a separate coin. Bitcoin was built for a very particular purpose and has a very specific social contract, and cannot deviate from that contract.
 
 3) The Transfer of Value Is Difficult to Negotiate Directly Between Two Untrusted Parties
+
 When I want to pay for some Tor bandwidth I am willing to give up something of value, my coins, in exchange for a service rendered immediately. That transaction is self-contained and immediate.
 
 On the other hand with a decentralized exchange the transfer of value may appear to happen between two parties, but because it's a public order the transfer really involves many parties, the whole market. For the order data to be honest a transaction must be completable by any
@@ -109,6 +112,7 @@ Permacoin is interesting in that it's ultimately a social contract: "You either 
 to negotiation. Zerocash is similar, but with regard to the censor ability of Zerocash tokens.
 
 4) Has a Higher “Network Strength” from App Coin Ownership
+
 Metcalfe's Law has demonstrated the power of a growing network effects. However strong network effects are not as simple as the player with the greater adoption will always prevail, as demonstrated by Venkatesh Shankar and Barry L. Bayus in their study on “NETWORK EFFECTS AND COMPETITION:
 An Empirical Analysis of the Home Video Game Industry”, where they found “strong evidence that network effects are asymmetric between the competitors… Specifically, we find that the firm with a smaller customer network (Nintendo) has higher network strength than the firm with the larger customer base (Sega).” Where the term “Network Strength” is defined as (the marginal impact of a unit increase in network size on demand).
 
@@ -121,6 +125,7 @@ Where this higher level of affinity for an application can be reinforced with ow
 Could be further breakdown to (a) increasing barrier of exit and hence increasing emotional ownership (b) boostrapping a network. The hardest part of any new network is always cold start problem, i.e. psychological resistance / inertia of adopting new things. AppCoin model leverages another human tendency , i.e. speculation and economic incentive, to overcome the inertia and reward risk taking.
 
 5) Freedom of Expression and Association Via an App Coin
+
 During his key note speech at the Bitcoin Expo 2014 in Toronto titled “The Future Of Crypto-Currency” Andreas Antonopoulos makes the argument that App Coins will continue to multiply until everyone has such a token. He discussed thinking of currency as an application then thinking of currency as a means of expression.
 
 This creates a situation where if a community wants to use a token to express a certain set of principles than that token will have a value to those that wish to identify or express those principles to others. This is evident in the different alternatives to Bitcoin that now exist.
