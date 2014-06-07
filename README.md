@@ -1,12 +1,12 @@
 The Value of App Coins
 ==================
 
-An analysis of App Coins, as a technical and economic means of price discovery, forms of expression / community, and a model for rewarding those actors performing said behaviors.
+An analysis of App Coins, as a technical and economic means of price discovery, forms of expression / community, and a model for rewarding those actors performing desirable behaviors.
 
 Introduction:
 ==========
 
-This white paper seeks to put forth the economic and technical reasons that the digital tokens known as “App Coins” can develop a value in the market and maintain their value over the long term, should their associated application gain adoption by users. App Coins can be implemented for solid technical or economic reasons. However projects should think carefully about their particular application and evaluate if there are compelling technical or economic justifications for the creation of an App Coin or if a for-profit business model may be better suited than the or crowdfunding model involving a pre-sale of the tokens that gives access to the services.
+This white paper seeks to put forth the economic and technical reasons that the digital tokens known as “App Coins” can develop a value in the market and maintain their value over the long term, should their associated application gain adoption by users. App Coins can be implemented for solid technical or economic reasons. However projects should think carefully about their particular application and evaluate if there are compelling technical or economic justifications for the creation of an App Coin or if a for-profit business model may be better suited than a crowdfunding model involving a pre-sale of the tokens that gives access to the services.
 
 Definition for App Coins:
 App Coins are defined here as tokens that are native to Decentralized applications that have a digital token associated with their use or monetization. For a more general description of what a Decentralized Application is (outside of the economic and technical discussions below about the value of their digital tokens) see this white paper (https://github.com/DavidJohnstonCEO/DecentralizedApplications) and wiki entry.
@@ -102,7 +102,7 @@ Where this higher level of affinity for an application can be reinforced with ow
 Could be further breakdown to (a) increasing barrier of exit and hence increasing emotional ownership (b) boostrapping a network. The hardest part of any new network is always cold start problem, i.e. psychological resistance / inertia of adopting new things. AppCoin model leverages another human tendency , i.e. speculation and economic incentive, to overcome the inertia and reward risk taking.
 
 5) Freedom of Expression and Association Via an App Coin
-During his key note speech at the Bitcoin Expo 2014 in Toronto titled “The Future Of Crypto-Currency” Andreas Antonopoulos makes the argument that App Coins will continue to multiply until everyone has such a token. He discussed thinking of currency as an application then thinking of currency as a means of expression.
+During his keynote speech at the Bitcoin Expo 2014 in Toronto titled “The Future Of Crypto-Currency” Andreas Antonopoulos makes the argument that App Coins will continue to multiply until everyone has such a token. He discussed thinking of currency as an application then thinking of currency as a means of expression.
 
 This creates a situation where if a community wants to use a token to express a certain set of principles than that token will have a value to those that wish to identify or express those principles to others. This is evident in the different alternatives to Bitcoin that now exist.
 
@@ -210,25 +210,25 @@ https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/
 
 See linked document.
 
-Section 4 - Why MaidSafeCoins Have Value
-
-http://blog.maidsafe.net/2014/05/14/the-economics-of-safecoin/
-
-See linked document.
-
-Section 5 - Why SWARM Coins Will Have Value
+Section 4 - Why SWARM Coins Will Have Value
 
 https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
 
 See linked document.
 
-Section 6 - Why NXT Have Value
+Section 5 - Why NXT Have Value
 
 NXT team please provide a link to your document.
 
-Section 7 - Why Rivetz Will Have Value
+Section 6 - Why Rivetz Will Have Value
 
 Rivetz team please provide a link to your document.
+
+Section 7 - Why MaidSafeCoins Have Value
+
+http://blog.maidsafe.net/2014/05/14/the-economics-of-safecoin/
+
+See linked document.
 
 Section 8 - Why DERPA Coins Will Have Value
 
