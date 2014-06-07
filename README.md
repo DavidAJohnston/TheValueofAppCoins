@@ -1,7 +1,7 @@
 The Value of App Coins
 ==================
 
-An analysis of App Coins, as a means of price discovery for previously unquantified behaviors and a model for rewarding those actors performing said behaviors.
+An analysis of App Coins, as a techical and economic means of price discovery, forms of expression / community, and a model for rewarding those actors performing said behaviors.
 
 Introduction:
 ==========
