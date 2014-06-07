@@ -165,11 +165,17 @@ References
 ==========
 
 1) http://cs.umd.edu/~amiller/permacoin.pdf
+
 2) https://github.com/petertodd/timelock
+
 3) http://twister.net.co/
+
 4) [Bitcoin-development] Decentralized digital asset exchange with honest pricing and market depth, Peter Todd, Feb 9th 2014, http://goo.gl/ys5iXE
+
 6) NETWORK EFFECTS AND COMPETITION: http://goo.gl/gIWWLJ
+
 7) The Future of Crypto Currencies by Andreas Antonopoulos http://youtu.be/SHrjs7VkSGU 
+
 8) U.S. Apple Laptop Marketshare Graph http://goo.gl/sVlzGE
 
 Appendix Case Studies 
