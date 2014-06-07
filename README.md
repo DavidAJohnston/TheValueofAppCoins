@@ -16,7 +16,7 @@ Table of Contents:
 
 Section One: When Does an App Coin Model Make Sense
     
-    1. Centralization is Unacceptable
+    1. Centralization or the Requirement of Trust is Unacceptable
     
     2. It Implements Functionality That Bitcoin Can’t Provide
     
