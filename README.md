@@ -93,15 +93,15 @@ When Does an App Coin Model Make Sense?
 
 General statements:
 
-#1) Centralization or the Requirement of Trust is Unacceptable.
+###1) Centralization or the Requirement of Trust is Unacceptable.
 
 An App Coin system is just a decentralized consensus mechanism, and one can always replace decentralized consensus with centralized consensus when designing applications (see "hybrid systems" below)
 
-##2) They Implement Functionality That Bitcoin Can't Provide.
+###2) They Implement Functionality That Bitcoin Can't Provide.
 
 It is important to note that one should consider the capacities that Bitcoin can offer even though they may not be implemented yet. Therefore on should think of what the network "can't" offer rather than "doesn't" offer for the time being. There's enough development talent to have many open source applications written; assuming a more efficient competitor without the baggage of a coin won't pop up is foolish. There should be a solid technical or economic justification for why you're using a separate coin. Bitcoin was built for a very particular purpose and has a very specific social contract, and cannot deviate from that contract.
 
-##3) The Transfer of Value Is Difficult to Negotiate Directly Between Two Untrusted Parties
+###3) The Transfer of Value Is Difficult to Negotiate Directly Between Two Untrusted Parties
 
 When I want to pay for some Tor bandwidth I am willing to give up something of value, my coins, in exchange for a service rendered immediately. That transaction is self-contained and immediate.
 
@@ -111,7 +111,7 @@ player in the market, so there needs to be global consensus about what has happe
 Permacoin is interesting in that it's ultimately a social contract: "You either censor all permacoin-stored data, or none at all" It fundamentally can't be negotiated between just two parties because the system aims to make choosing to censor a subset of the data not subject
 to negotiation. Zerocash is similar, but with regard to the censor ability of Zerocash tokens.
 
-##4) Has a Higher “Network Strength” from App Coin Ownership
+###4) Has a Higher “Network Strength” from App Coin Ownership
 
 Metcalfe's Law has demonstrated the power of a growing network effects. However strong network effects are not as simple as the player with the greater adoption will always prevail, as demonstrated by Venkatesh Shankar and Barry L. Bayus in their study on “NETWORK EFFECTS AND COMPETITION:
 An Empirical Analysis of the Home Video Game Industry”, where they found “strong evidence that network effects are asymmetric between the competitors… Specifically, we find that the firm with a smaller customer network (Nintendo) has higher network strength than the firm with the larger customer base (Sega).” Where the term “Network Strength” is defined as (the marginal impact of a unit increase in network size on demand).
@@ -124,7 +124,7 @@ Where this higher level of affinity for an application can be reinforced with ow
 
 Could be further breakdown to (a) increasing barrier of exit and hence increasing emotional ownership (b) boostrapping a network. The hardest part of any new network is always cold start problem, i.e. psychological resistance / inertia of adopting new things. AppCoin model leverages another human tendency , i.e. speculation and economic incentive, to overcome the inertia and reward risk taking.
 
-##5) Freedom of Expression and Association Via an App Coin
+###5) Freedom of Expression and Association Via an App Coin
 
 During his key note speech at the Bitcoin Expo 2014 in Toronto titled “The Future Of Crypto-Currency” Andreas Antonopoulos makes the argument that App Coins will continue to multiply until everyone has such a token. He discussed thinking of currency as an application then thinking of currency as a means of expression.
 
@@ -142,12 +142,12 @@ SECTION TWO
 ==========
 Comparison of App Coins to Bitcoin 
 
-##1). Why There Is A Need For More Than Just Bitcoin
+###1). Why There Is A Need For More Than Just Bitcoin
 
 Some in their analysis of App Coins think anything can be done with Bitcoin, when in reality
 only a very limited set of transaction types are possible in a fully decentralized way.
 
-##2). Transaction Costs
+###2). Transaction Costs
 
 Bitcoin reduces transaction costs for *specific* types of transactions. For instance it greatly reduced the cost of getting reimbursed for my expenses in the past few weeks - an employer was able to send funds from Israel to Canada in just a few minutes with total fees around
 0.5% including the process of selling the bitcoins. Compare that to the multiple weeks I'll have to wait for my cheque from the BBC to clear, along with about 5% fees.
@@ -157,7 +157,7 @@ that type of transaction. Andrew Miller’s work on Permacoin (1) is an example 
 
 That said this isn't always true. There are a lot of clever techniques out there for getting Bitcoin to do things previously thought impossible. (2)
 
-##3). Network Effects/Forking the App Coin
+###3). Network Effects/Forking the App Coin
 
 “Infrastructure" is perhaps not the best argument for why forking App Coins is infeasible. Infrastructure in a decentralized environment, run by open source software, can be recreated instantly just the same way the software itself can. What can't be recreated is the social
 consensus, and we've already agreed that network effects reduce transaction costs by providing for more liquid markets. Having said that social consensus can change. Markets can be convinced by allegations of fraud and unfairness, or simply higher costs; this is a big part of why I think Mastercoin and similar systems must be interoperable with each other, and only require use of the App Coins for valid, justifiable, technical reasons.
@@ -170,11 +170,11 @@ SECTION THREE
 ==========
 Comparison of the Different Consensus Systems 
 
-##1). Zero Knowledge Systems
+###1). Zero Knowledge Systems
 
 The "dark horse" is “zero-knowledge Succinct Non-interactive Arguments of Knowledge” (zk-SNARK). If you haven't heard of the term, basically they let Alice prove to Bob that she ran some specified computer program on a set of data, some of which may be hidden from Bob. The proofs are small (hundreds of bytes) and can be verified in constant time in the range of milliseconds. Computing the proofs is reasonable as well. Critically the program a zk-SNARKs proves can also include functionality to verify another zk-SNARK recursively. While this hasn't yet been demonstrated "in production" it's quite conceivable that all App Coins can be replaced with a single zk-SNARK based system, kind of a hyper-optimized version of Ethereum. Such a system could be itself implemented as an Mastercoin-style embedded consensus system, resulting in "one App Coin to rule them all". Equally Bitcoin can add such functionality.
 
-##2). Hybrid Systems
+###2). Hybrid Systems
 
 A more near-term competitor might be hybrid systems that have both centralized and decentralized aspects. Colored Coins is a good example: you can offer to sell Colored Coins for bitcoins atomically in a completely decentralized fashion (4) with honest pricing and market depth, but can't offer to buy Colored Coins for bitcoins because Bitcoin does not understand the Colored Coin protocol. However you can of course have a centralized exchange perform that task, and you can use a variety of techniques to keep that exchange honest. (similar to the techniques to keeping off-chain tx providers honest)
 
