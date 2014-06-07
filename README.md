@@ -87,10 +87,8 @@ Appendix: Case Studies
 
 11). API Coins
 
-SECTION ONE
+SECTION ONE - When Does an App Coin Model Make Sense?
 ==========
-When Does an App Coin Model Make Sense?
-
 General statements:
 
 ###1) Centralization or the Requirement of Trust is Unacceptable.
@@ -142,9 +140,8 @@ For those user concerned with anonymity and privacy of their transactions altern
 ####Example D. The Charity / Tipping Community
 For those that identify with a more light hearted and charity oriented view of currency, alternative systems that make tipping behavior and crowdfunding of fun initiatives have emerged to serve those users.       
 
-SECTION TWO
+SECTION TWO - Comparison of App Coins to Bitcoin 
 ==========
-Comparison of App Coins to Bitcoin 
 
 ###1). Why There Is A Need For More Than Just Bitcoin
 
@@ -170,9 +167,8 @@ An interesting thing you can point out here is how with the Zerocash App Coin th
 
 There is however a big gotcha with these arguments: converting the App Coin to/from Bitcoin can be highly efficient. If users only need to hold a given coin briefly to do whatever the application requires the velocity of the App Coin will be high and potentially demand low. Like the transaction costs, whether or not this matters is a case-by-case thing.
 
-SECTION THREE
+SECTION THREE - Comparison of the Different Consensus Systems
 ==========
-Comparison of the Different Consensus Systems 
 
 ###1). Zero Knowledge Systems
 
