@@ -5,10 +5,15 @@ An analysis of App Coins, as a technical and economic means of price discovery, 
 
 Authors:
 David A. Johnston - https://github.com/DavidJohnstonCEO
+
 Joe Dietz - https://github.com/fractastical
 
+Input from: 
 
-Input from Peter Todd - https://github.com/petertodd
+Peter Todd - https://github.com/petertodd
+
+David Irvine - https://github.com/dirvine
+
 
 Introduction:
 ==========
