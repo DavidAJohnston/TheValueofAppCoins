@@ -107,12 +107,12 @@ SECTION TWO
 ==========
 Comparison of App Coins to Bitcoin 
 
-1. Why There Is A Need For More Than Just Bitcoin
+1). Why There Is A Need For More Than Just Bitcoin
 
 Some in their analysis of App Coins think anything can be done with Bitcoin, when in reality
 only a very limited set of transaction types are possible in a fully decentralized way.
 
-2. Transaction Costs
+2). Transaction Costs
 
 Bitcoin reduces transaction costs for *specific* types of transactions. For instance it greatly reduced the cost of getting reimbursed for my expenses in the past few weeks - an employer was able to send funds from Israel to Canada in just a few minutes with total fees around
 0.5% including the process of selling the bitcoins. Compare that to the multiple weeks I'll have to wait for my cheque from the BBC to clear, along with about 5% fees.
@@ -122,7 +122,7 @@ that type of transaction. Andrew Miller’s work on Permacoin (1) is an example 
 
 That said this isn't always true. There are a lot of clever techniques out there for getting Bitcoin to do things previously thought impossible. (2)
 
-3. Network Effects/Forking the App Coin
+3). Network Effects/Forking the App Coin
 
 “Infrastructure" is perhaps not the best argument for why forking App Coins is infeasible. Infrastructure in a decentralized environment, run by open source software, can be recreated instantly just the same way the software itself can. What can't be recreated is the social
 consensus, and we've already agreed that network effects reduce transaction costs by providing for more liquid markets. Having said that social consensus can change. Markets can be convinced by allegations of fraud and unfairness, or simply higher costs; this is a big part of why I think Mastercoin and similar systems must be interoperable with each other, and only require use of the App Coins for valid, justifiable, technical reasons.
@@ -135,11 +135,11 @@ SECTION THREE
 ==========
 Comparison of the Different Consensus Systems 
 
-1. Zero Knowledge Systems
+1). Zero Knowledge Systems
 
 The "dark horse" is “zero-knowledge Succinct Non-interactive Arguments of Knowledge” (zk-SNARK). If you haven't heard of the term, basically they let Alice prove to Bob that she ran some specified computer program on a set of data, some of which may be hidden from Bob. The proofs are small (hundreds of bytes) and can be verified in constant time in the range of milliseconds. Computing the proofs is reasonable as well. Critically the program a zk-SNARKs proves can also include functionality to verify another zk-SNARK recursively. While this hasn't yet been demonstrated "in production" it's quite conceivable that all App Coins can be replaced with a single zk-SNARK based system, kind of a hyper-optimized version of Ethereum. Such a system could be itself implemented as an Mastercoin-style embedded consensus system, resulting in "one App Coin to rule them all". Equally Bitcoin can add such functionality.
 
-2. Hybrid Systems
+2). Hybrid Systems
 
 A more near-term competitor might be hybrid systems that have both centralized and decentralized aspects. Colored Coins is a good example: you can offer to sell Colored Coins for bitcoins atomically in a completely decentralized fashion (4) with honest pricing and market depth, but can't offer to buy Colored Coins for bitcoins because Bitcoin does not understand the Colored Coin protocol. However you can of course have a centralized exchange perform that task, and you can use a variety of techniques to keep that exchange honest. (similar to the techniques to keeping off-chain tx providers honest)
 
@@ -214,10 +214,6 @@ Section 9 - Why Storj Will Have Value
 Storj team please provide a link to your document.
 
 Section 10  - Why LTBCOIN Will Have Value
-
-See linked document.
-
-Section 11 - Why API Coins Will Have Value
 
 See linked document.
 
