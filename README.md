@@ -1,7 +1,7 @@
 The Value of App Coins
 ==================
 
-An open source analysis of App Coins, as a technical and economic means of price discovery, forms of expression, community building, and a model for rewarding those actors performing quantifiable behaviors. Pull requests to improve the content, references, and claims of this whitepaper are welcome.
+An open source analysis of App Coins, as a technical and economic means of price discovery, forms of expression, community building, and a model for rewarding actors that perform quantifiable valued added behaviors. Pull requests to improve the content, references, and claims of this whitepaper are welcome.
 
 Authors:
 ==================
