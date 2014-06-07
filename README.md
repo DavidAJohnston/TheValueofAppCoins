@@ -3,6 +3,13 @@ The Value of App Coins
 
 An analysis of App Coins, as a technical and economic means of price discovery, forms of expression / community, and a model for rewarding those actors performing said behaviors.
 
+Authors:
+David A. Johnston - https://github.com/DavidJohnstonCEO
+Joe Dietz - https://github.com/fractastical
+
+
+Input from Peter Todd - https://github.com/petertodd
+
 Introduction:
 ==========
 
