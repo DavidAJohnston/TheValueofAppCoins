@@ -130,13 +130,13 @@ During his key note speech at the Bitcoin Expo 2014 in Toronto titled “The Fut
 
 This creates a situation where if a community wants to use a token to express a certain set of principles than that token will have a value to those that wish to identify or express those principles to others. This is evident in the different alternatives to Bitcoin that now exist.
 
-Example A. Some users are highly concerned with the “centralization” that taking place in the mining market of bitcoin due to ASICs and as a response to that concern different communities have adopted Scripting algorithms for mining of coins that are more ASIC resistant and thus in their minds preserving of “decentralization”.
+####Example A. Some users are highly concerned with the “centralization” that taking place in the mining market of bitcoin due to ASICs and as a response to that concern different communities have adopted Scripting algorithms for mining of coins that are more ASIC resistant and thus in their minds preserving of “decentralization”.
 
-Example B.  For those users concerned with the use of large amounts of electricity in the mining process, the alternative use of “proof of stake” has emerged as a low energy alternative was to maintain consensus in a trustless ledger system.
+####Example B.  For those users concerned with the use of large amounts of electricity in the mining process, the alternative use of “proof of stake” has emerged as a low energy alternative was to maintain consensus in a trustless ledger system.
 
-Example C. For those user concerned with anonymity and privacy of their transactions alternative systems have emerged with their own coins to serve this community. 
+####Example C. For those user concerned with anonymity and privacy of their transactions alternative systems have emerged with their own coins to serve this community. 
 
-Example D. For those that identify with a more light hearted and charity oriented view of currency, alternative systems that make tipping behavior and crowdfunding of fun initiatives have emerged to serve those users.       
+####Example D. For those that identify with a more light hearted and charity oriented view of currency, alternative systems that make tipping behavior and crowdfunding of fun initiatives have emerged to serve those users.       
 
 SECTION TWO
 ==========
