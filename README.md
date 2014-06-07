@@ -264,3 +264,9 @@ Section 11 - Why API Coins Will Have Value
 https://github.com/DavidJohnstonCEO/APINetwork/blob/master/README.md
 
 See linked document.
+
+Section 12 - Why Ripple XRP Have Value
+
+https://ripple.com/partners/
+
+See linked document.
