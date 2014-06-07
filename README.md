@@ -22,6 +22,8 @@ Jeremy Kandah - https://github.com/jkandah
 
 Sam Yilmaz - https://github.com/Onat
 
+J.R. Willet - https://github.com/dacoinminster
+
 Introduction:
 ==========
 
