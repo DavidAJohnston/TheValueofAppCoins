@@ -204,17 +204,6 @@ References
 
 Appendix Case Studies 
 ==========
-1. Mastercoins
-2. Ether
-3. Counterparty
-4. SWARM
-5. NXT
-6. Rivetz
-7. SAFE Coins
-8. DEPRA
-9. Storj
-10. LTBCOIN
-11. API Coins
 
 Section 1 - Why Mastercoins Have Value
 
