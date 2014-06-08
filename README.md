@@ -147,9 +147,9 @@ For those user concerned with anonymity and privacy of their transactions altern
 For those that identify with a more light hearted and charity oriented view of currency, alternative systems that make tipping behavior and crowdfunding of fun initiatives have emerged to serve those users.       
 
 ###6) Preference for certain Economic philosophy thru AppCoin
-Choosing a certain coin could also reflect preference over a specific economic theory. Traditionally, you have something like USD controlled by Federal Reserve, which adopts various economic philosophy over time (e.g. Keyenes) based on  preference of congress/commitee members. Then, you have Bitcoin, which adopts a fixed deflationary policy; so are most altcoins. In fact, many BitCoin fans talk promotes bitcoin because of its deflationary nature.
+Choosing a certain coin could also reflect preference over a specific economic theory. Traditionally, you have something like USD controlled by Federal Reserve, which adopts various economic philosophy over time (e.g. Keynes) based on decision of commitee members. Then, you have Bitcoin which adopts a fixed deflationary policy; so are most altcoins. In fact, many BitCoin fans  promotes bitcoin heavily because of its deflationary nature.
 
-In future, it's likely that many more AppCoins could adopt different economic theories, in the form of algorithm - e.g. a BernankeCoin could adopt an expansionary philosphy where new coin mining rate dynamically adjusted to CPI data, or even allow manual intervention to print more coin upon voting by stake of coin. As such, some people may prefer to hold BernankeCoin over BitCoin, at least for that specific app, because they subscribe to its economics philosophy and believe it encourages more economic behavior and beneficial to the app ecosystem.
+In future, it's likely that many more AppCoins could adopt different economic theories, in the form of algorithm - e.g. a BernankeCoin could adopt an expansionary strategy where new coin mining rate dynamically adjusted to CPI data, or even allow manual intervention to mint more coin upon voting by stake of coin. As such, some people may prefer to hold BernankeCoin over BitCoin, at least for that specific app, because they subscribe to its economics philosophy and believe it encourages more economic behavior and beneficial to the app ecosystem.
 
 ###7) New mechanisms of price discovery and adjustment
 One important use of creating a new currency is discovering and adjusting price for a product/service previously of unknown value. However, one might ask, how is that different from denominating in USD or BTC, then let service provider(s) compete and adjust price based on market reaction?
@@ -171,14 +171,14 @@ This could become a more efficient process for some product, as pricing signal a
 
 On the flip side, this does create the reverse lag of pricing signal on the supply end. E.g., when SafeCoin go below a supplier's storage cost, some suppliers may leave the network (worse, many at same time). Of course, assuming same demand, users discover that storage become unavailable, they'd bid up the SafeCoin price, which encourages new suppliers to join the network. But there'd be a lag.
 
-###8 Establishing a new unit of account
-Every type of currency, esp. those well established ones like USD or BTC, people usually has a commonly unit of account (e.g. 1 USD, or 1 Bits) and direct psychological association of its value (e.g. 0.1 USD "feels" a small amount of money). 
+###8) Establishing a new unit of account
+Every type of currency, esp. those well established ones like USD or BTC, people usually has a commonly used unit of account (e.g. 1 USD, or 1 Bits) and direct psychological association of its value (e.g. 0.1 USD "feels" a small amount of money). 
 
 Yet sometimes it's important to manipulate that perception in commerce -- esp. enabling "micro" transactions that fall below psychological threshold. Adding an extra layer of currency conversion, we're really cognitively abstracting the true value of the service away from the user, and making them less sensitive to its underlying cost/price. 
 
 Look at example of  FavorDo, an app that allow people to ask for favor and help each other in a social network, with economic reward attached. When you ask for your friends of friends for favor with 50cents attached, people feel very little motivation to help or, worse, insulted. Yet, when you abstract it to 5000 FavorCoins (where the market value of a FavorCoin is really 0.0001), that might fare better. 
 
-Airlines mile rewards (e.g. it's not obvious what does 3000 miles really worth) and Doge Coin tipping, are all similiar examples. 
+Airlines mile rewards (e.g. it's not obvious what does 3000 miles really worth) and Doge Coin tipping, are similiar examples. 
 
 ####9 Enabling (more) pre-sale of  goods / service
 Holding Currency is like holding on to generic futures of undetermined service, when it comes to AppCoin they're usually a more specific type of futures. E.g. SafeCoin is a futures for some undetermined storage / computation power.
