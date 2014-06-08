@@ -132,16 +132,19 @@ During his keynote speech at the Bitcoin Expo 2014 in Toronto titled “The Futu
 
 This creates a situation where if a community wants to use a token to express a certain set of principles then that token will have a value to those that wish to identify or express those principles to others. This is evident in the different alternatives to Bitcoin that now exist.
 
-####Example A. The Decentralization Community
+####Example A. Choice of Monetary Policy
+App Coins can serve as an expression and an implied voting for certain economic theory / monetary policy. Traditionally, you have something like USD controlled by Federal Reserve, that adopts dynamic economic policy but with certain tendency (e.g. Keynes) based on committee and specific economic situation. Then, you have Bitcoin, which adopts a fixed monetary philosophy. This has given rise to a competitive environment where many competing economic theories expressed in the form of algorithm - e.g. speed of new coin mining, inflationary or deflationary policies are being created with new coins. Some people decide to hold HayekCoin over FEDCoin because they subscribe to its monetary policy and believe it will hold value better in the long-term. And conversely those that decide to hold FEDcoin because they subscribe to its inflationary monetary policy and believe it will drive consumption are equally free to do so. One could imagine a whole varity of politics, ethics, economics and other beliefs that can be quantified and held as an identity in a Coin.
+
+####Example B. The Decentralization Community
 Some users are highly concerned with the “centralization” that taking place in the mining market of bitcoin due to ASICs and as a response to that concern different communities have adopted scripting algorithms for mining of coins that are more ASIC resistant and thus in their minds preserving of “decentralization”.
 
-####Example B. The Proof of Stake Community 
+####Example C. The Proof of Stake Community 
 For those users concerned with the use of large amounts of electricity in the mining process, the alternative use of “proof of stake” has emerged as a low energy alternative was to maintain consensus in a trustless ledger system.
 
-####Example C. The Privacy Community
+####Example D. The Privacy Community
 For those user concerned with anonymity and privacy of their transactions alternative systems have emerged with their own coins to serve this community. 
 
-####Example D. The Charity / Tipping Community
+####Example E. The Charity / Tipping Community
 For those that identify with a more light hearted and charity oriented view of currency, alternative systems that make tipping behavior and crowdfunding of fun initiatives have emerged to serve those users.       
 
 SECTION TWO - Comparison of App Coins to Bitcoin 
