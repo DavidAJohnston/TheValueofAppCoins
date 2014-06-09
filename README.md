@@ -102,7 +102,7 @@ General statements:
 
 ###1) Centralization or the Requirement of Trust is Unacceptable.
 
-An App Coin system is just a decentralized consensus mechanism, and one can always replace decentralized consensus with centralized consensus when designing applications (see "hybrid systems" below)
+An App Coin system is just a decentralized consensus mechanism, and one can always replace decentralized consensus with centralized consensus when designing applications (see "hybrid systems" below). Thus in use cases when centralization or trust is unacceptable, then Appcoins offer a useful alterative and do provide value.
 
 ###2) They Implement Functionality That Bitcoin Can't Provide.
 
