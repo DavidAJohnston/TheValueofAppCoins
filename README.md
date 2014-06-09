@@ -8,7 +8,7 @@ Authors:
 
 David A. Johnston - https://github.com/DavidJohnstonCEO
 
-Joe Dietz - https://github.com/fractastical
+Joel Dietz - https://github.com/fractastical
 
 Ron Gross - https://github.com/ripper234
 
