@@ -262,27 +262,31 @@ Appendix Case Studies
 
 Section 1 - Why Mastercoins Have Value
 
-https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing
+Mastercoin is the original meta protocol providing asset issuance and a decentralized exchange on top of Bitcion. 
 
-See linked document.
+More: https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing
+
 
 Section 2 - Why Ether Will Have Value
 
-https://docs.google.com/document/d/1yh88h6FRAiB9-1_G0xlz2pvDN1Xo7o376xLkGksLLpg/edit
+Ether the currency of Ethereum, a blockchain with an embedded turing completely language that makes contracts.  
 
-See linked document.
+More: https://docs.google.com/document/d/1yh88h6FRAiB9-1_G0xlz2pvDN1Xo7o376xLkGksLLpg/edit
+
 
 Section 3 - Why Counterparty XCP Has Value
 
-https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/edit?usp=sharing
+Counterparty provides a p2p finance layer, including user-created assets and a decentralized exchange 
 
-See linked document.
+More: https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/edit?usp=sharing
+
 
 Section 4 - Why SWARM Coins Will Have Value
 
-https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
+SWARM provides a Kickstarter platform for cryptoequity built on top of other 2.0 protocols
 
-See linked document.
+More: https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
+
 
 Section 5 - Why NXT Have Value
 
