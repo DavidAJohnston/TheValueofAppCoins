@@ -265,75 +265,73 @@ References
 Appendix Case Studies 
 ==========
 
-Section 1 - Why Mastercoins Have Value
+#####Section 1 - Why Mastercoins Have Value
 
 Mastercoin is the original meta protocol providing asset issuance and a decentralized exchange on top of Bitcion. 
 
 More: https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing
 
 
-Section 2 - Why Ether Will Have Value
+#####Section 2 - Why Ether Will Have Value
 
 Ether the currency of Ethereum, a blockchain with an embedded turing completely language that makes contracts.  
 
 More: https://docs.google.com/document/d/1yh88h6FRAiB9-1_G0xlz2pvDN1Xo7o376xLkGksLLpg/edit
 
 
-Section 3 - Why Counterparty XCP Has Value
+#####Section 3 - Why Counterparty XCP Has Value
 
 Counterparty provides a p2p finance layer, including user-created assets and a decentralized exchange 
 
 More: https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/edit?usp=sharing
 
+#####Section 4 - Why SWARM Coins Will Have Value
 
-Section 4 - Why SWARM Coins Will Have Value
-
-SWARM provides a Kickstarter platform for cryptoequity built on top of other 2.0 protocols
+SWARM provides a platform for cryptoequity. SWARM give back other coins from future coin launches.
 
 More: https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
 
-
-Section 5 - Why NXT Have Value
+#####Section 5 - Why NXT Have Value
 
 NXT team please provide a link to your document.
 
-Section 6 - Why Rivetz Will Have Value
+#####Section 6 - Why Rivetz Will Have Value
 
 Rivetz team please provide a link to your document.
 
-Section 7 - Why MaidSafeCoins Have Value
+#####Section 7 - Why MaidSafeCoins Have Value
 
 http://blog.maidsafe.net/2014/05/14/the-economics-of-safecoin/
 
 See linked document.
 
-Section 8 - Why DERPA Coins Will Have Value
+#####Section 8 - Why DERPA Coins Will Have Value
 
 DERPA team please provide a link to your document.
 
-Section 9 - Why Storj Will Have Value
+#####Section 9 - Why Storj Will Have Value
 
 Storj team please provide a link to your document.
 
-Section 10  - Why LTBCOIN Will Have Value
+#####Section 10  - Why LTBCOIN Will Have Value
 
 https://docs.google.com/document/d/1r9D3pfv3sbqrNYvTIkRk2cEMEKegTBedVNKjeG6kDc4
 
 See linked document.
 
-Section 11 - Why API Coins Will Have Value
+#####Section 11 - Why API Coins Will Have Value
 
 https://github.com/DavidJohnstonCEO/APINetwork/blob/master/README.md
 
 See linked document.
 
-Section 12 - Why Ripple XRP Have Value
+#####Section 12 - Why Ripple XRP Have Value
 
 https://ripple.com/partners/
 
 See linked document.
 
-Section 13 - Why Permacredits Have Value
+#####Section 13 - Why Permacredits Have Value
 
 https://docs.google.com/document/d/12JZqif8nO-hakiBp82UcEdomkorjVEm_I-VTfXu5WA0/edit
 
