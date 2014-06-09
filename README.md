@@ -8,7 +8,7 @@ Authors:
 
 David A. Johnston - https://github.com/DavidJohnstonCEO
 
-Joe Dietz - https://github.com/fractastical
+Joel Dietz - https://github.com/fractastical
 
 Ron Gross - https://github.com/ripper234
 
@@ -29,7 +29,7 @@ Tom Ding - https://github.com/toysrtommy
 Introduction:
 ==========
 
-This white paper seeks to put forth the economic and technical reasons that the digital tokens known as “App Coins” can develop a value in the market and maintain their value over the long term, should their associated application gain adoption by users. App Coins can be implemented for solid technical or economic reasons. However projects should think carefully about their particular application and evaluate if there are compelling technical or economic justifications for the creation of an App Coin or if a for-profit business model may be better suited than the or crowdfunding model involving a pre-sale of the tokens that gives access to the services.
+This white paper seeks to put forth the economic and technical reasons that the digital tokens known as “App Coins” can develop a value in the market and maintain their value over the long term, should their associated application gain adoption by users. App Coins can be implemented for solid technical or economic reasons. However projects should think carefully about their particular application and evaluate if there are compelling technical or economic justifications for the creation of an App Coin or if a for-profit business model may be better suited than a crowdfunding model involving a pre-sale of the tokens that gives access to the services.
 
 Definition for App Coins:
 App Coins are defined here as tokens that are native to Decentralized applications that have a digital token associated with their use or monetization. For a more general description of what a Decentralized Application is (outside of the economic and technical discussions below about the value of their digital tokens) see this white paper (https://github.com/DavidJohnstonCEO/DecentralizedApplications) and wiki entry.
@@ -62,6 +62,7 @@ Section Three: Comparison of the Different Consensus Systems
     1. Zero Knowledge Systems
     
     2. Hybrid Systems
+	
 
 Conclusion
 
@@ -237,7 +238,12 @@ The regulatory uncertainty surrounding blockchain-issued assets will likely prov
 Conclusion
 ==========
 
-Creating an App Coin first and foremost as a way to get paid there's a good chance you're creating something without an actual purpose. Given the current state of understanding in the community of the underlying concepts, calling them "fraudulent" is going too far, but all the same we don't need useless App Coins. Having said that, there are a whole host of cases where App Coins are essential for solid technical and economic reasons. When that is the case, using them to fund development efforts may be acceptable, although its worth projects thinking carefully if simply issuing shares for a for-profit business, or a simple crowdfunding effort, is more appropriate.
+It's entirely possible that if you simply create an App Coin as a way to get money there is no purpose or value attached ot that coin. Although calling them necessarily "fradulent" is going too far, there's a strong need to define the value of App Coins.
+
+In this paper we have established many use cases where App Coins provide clear value. These cases include the benefit of having users as investors, increased network effect, presale of a token for fundraising, and various incentivization strategies that are missing in the world of mainstream investment. All of these point to the fact that App Coins can be extremely valuable to both the people creating a project and obtaining the coins. 
+
+That said, it is always worth considering App Coins in light of alternative strategies like crowdfunding efforts or simply issuing equity in a for-profit business. There is no single right answer and there are advantages to each depending on circumstances.  
+
 
 References
 ==========
@@ -259,71 +265,73 @@ References
 Appendix Case Studies 
 ==========
 
-Section 1 - Why Mastercoins Have Value
+#####Section 1 - Why Mastercoins Have Value
 
-https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing
+Mastercoin is the original meta protocol providing asset issuance and a decentralized exchange on top of Bitcion. 
 
-See linked document.
+More: https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing
 
-Section 2 - Why Ether Will Have Value
 
-https://docs.google.com/document/d/1yh88h6FRAiB9-1_G0xlz2pvDN1Xo7o376xLkGksLLpg/edit
+#####Section 2 - Why Ether Will Have Value
 
-See linked document.
+Ether the currency of Ethereum, a blockchain with an embedded turing completely language that makes contracts.  
 
-Section 3 - Why Counterparty XCP Has Value
+More: https://docs.google.com/document/d/1yh88h6FRAiB9-1_G0xlz2pvDN1Xo7o376xLkGksLLpg/edit
 
-https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/edit?usp=sharing
 
-See linked document.
+#####Section 3 - Why Counterparty XCP Has Value
 
-Section 4 - Why MaidSafeCoins Have Value
+Counterparty provides a p2p finance layer, including user-created assets and a decentralized exchange 
+
+More: https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/edit?usp=sharing
+
+#####Section 4 - Why SWARM Coins Will Have Value
+
+SWARM provides a platform for cryptoequity. SWARM give back other coins from future coin launches.
+
+More: https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
+
+#####Section 5 - Why NXT Have Value
+
+NXT team please provide a link to your document.
+
+#####Section 6 - Why Rivetz Will Have Value
+
+Rivetz team please provide a link to your document.
+
+#####Section 7 - Why MaidSafeCoins Have Value
 
 http://blog.maidsafe.net/2014/05/14/the-economics-of-safecoin/
 
 See linked document.
 
-Section 5 - Why SWARM Coins Will Have Value
-
-https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
-
-See linked document.
-
-Section 6 - Why NXT Have Value
-
-NXT team please provide a link to your document.
-
-Section 7 - Why Rivetz Will Have Value
-
-Rivetz team please provide a link to your document.
-
-Section 8 - Why DERPA Coins Will Have Value
+#####Section 8 - Why DERPA Coins Will Have Value
 
 DERPA team please provide a link to your document.
 
-Section 9 - Why Storj Will Have Value
+#####Section 9 - Why Storj Will Have Value
 
 Storj team please provide a link to your document.
 
-Section 10  - Why LTBCOIN Will Have Value
+#####Section 10  - Why LTBCOIN Will Have Value
 
 https://docs.google.com/document/d/1r9D3pfv3sbqrNYvTIkRk2cEMEKegTBedVNKjeG6kDc4
 
 See linked document.
 
-Section 11 - Why API Coins Will Have Value
+#####Section 11 - Why API Coins Will Have Value
 
 https://github.com/DavidJohnstonCEO/APINetwork/blob/master/README.md
 
 See linked document.
 
-Section 12 - Why Ripple XRP Have Value
+#####Section 12 - Why Ripple XRP Have Value
 
 https://ripple.com/partners/
 
 See linked document.
 
-Section 13 - Why Permacredits Have Value
+#####Section 13 - Why Permacredits Have Value
 
 https://docs.google.com/document/d/12JZqif8nO-hakiBp82UcEdomkorjVEm_I-VTfXu5WA0/edit
 
