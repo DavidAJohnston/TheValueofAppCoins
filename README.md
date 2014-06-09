@@ -238,7 +238,12 @@ The regulatory uncertainty surrounding blockchain-issued assets will likely prov
 Conclusion
 ==========
 
-Creating an App Coin first and foremost as a way to get paid there's a good chance you're creating something without an actual purpose. Given the current state of understanding in the community of the underlying concepts, calling them "fraudulent" is going too far, but all the same we don't need useless App Coins. Having said that, there are a whole host of cases where App Coins are essential for solid technical and economic reasons. When that is the case, using them to fund development efforts may be acceptable, although its worth projects thinking carefully if simply issuing shares for a for-profit business, or a simple crowdfunding effort, is more appropriate.
+It's entirely possible that if you simply create an App Coin as a way to get money there is no purpose or value attached ot that coin. Although calling them necessarily "fradulent" is going too far, there's a strong need to define the value of App Coins.
+
+In this paper we have established many use cases where App Coins provide clear value. These cases include the benefit of having users as investors, increased network effect, presale of a token for fundraising, and various incentivization strategies that are missing in the world of mainstream investment. All of these point to the fact that App Coins can be extremely valuable to both the people creating a project and obtaining the coins. 
+
+That said, it is always worth considering App Coins in light of alternative strategies like crowdfunding efforts or simply issuing equity in a for-profit business. There is no single right answer and there are advantages to each depending on circumstances.  
+
 
 References
 ==========
