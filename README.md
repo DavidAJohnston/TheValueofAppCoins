@@ -91,6 +91,9 @@ Appendix: Case Studies
 
 12). Ripple XRP
 
+13). Permacredits
+
+
 SECTION ONE - When Does an App Coin Model Make Sense?
 ==========
 General statements:
@@ -273,5 +276,11 @@ See linked document.
 Section 12 - Why Ripple XRP Have Value
 
 https://ripple.com/partners/
+
+See linked document.
+
+Section 13 - Why Permacredits Have Value
+
+https://docs.google.com/document/d/12JZqif8nO-hakiBp82UcEdomkorjVEm_I-VTfXu5WA0/edit
 
 See linked document.
