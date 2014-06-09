@@ -278,25 +278,25 @@ https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/
 
 See linked document.
 
-Section 4 - Why MaidSafeCoins Have Value
-
-http://blog.maidsafe.net/2014/05/14/the-economics-of-safecoin/
-
-See linked document.
-
-Section 5 - Why SWARM Coins Will Have Value
+Section 4 - Why SWARM Coins Will Have Value
 
 https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
 
 See linked document.
 
-Section 6 - Why NXT Have Value
+Section 5 - Why NXT Have Value
 
 NXT team please provide a link to your document.
 
-Section 7 - Why Rivetz Will Have Value
+Section 6 - Why Rivetz Will Have Value
 
 Rivetz team please provide a link to your document.
+
+Section 7 - Why MaidSafeCoins Have Value
+
+http://blog.maidsafe.net/2014/05/14/the-economics-of-safecoin/
+
+See linked document.
 
 Section 8 - Why DERPA Coins Will Have Value
 
