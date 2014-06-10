@@ -259,6 +259,8 @@ References
 Appendix Case Studies 
 ==========
 
++See [reddit.com/r/whyxhasvalue](http://www.reddit.com/r/whyxhasvalue/)
+
 Section 1 - Why Mastercoins Have Value
 
 https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing
