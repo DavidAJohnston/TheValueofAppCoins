@@ -259,72 +259,22 @@ References
 Appendix Case Studies 
 ==========
 
-Section 1 - Why Mastercoins Have Value
+1. [Why Mastercoins Have Value](https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing)
+2. [Why Ether Will Have Value](https://docs.google.com/document/d/1yh88h6FRAiB9-1_G0xlz2pvDN1Xo7o376xLkGksLLpg/edit)
+3. [Why Counterparty XCP Has Value](https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/edit?usp=sharing
+)
+4. [Why MaidSafeCoins Have Value](http://blog.maidsafe.net/2014/05/14/the-economics-of-safecoin/
+)
+5. [Why SWARM Coins Will Have Value](https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
+)
+6. [Why LTBCOIN Will Have Value](https://docs.google).com/document/d/1r9D3pfv3sbqrNYvTIkRk2cEMEKegTBedVNKjeG6kDc4)
+7. [Why API Coins Will Have Value](https://github.com/DavidJohnstonCEO/APINetwork/blob/master/README.md)
+8. [Why Ripple XRP Have Value](https://ripple.com/partners/)
+9. [Why Permacredits Have Value](https://docs.google.com/document/d/12JZqif8nO-hakiBp82UcEdomkorjVEm_I-VTfXu5WA0/edit)
 
-https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing
+TODO:
 
-See linked document.
-
-Section 2 - Why Ether Will Have Value
-
-https://docs.google.com/document/d/1yh88h6FRAiB9-1_G0xlz2pvDN1Xo7o376xLkGksLLpg/edit
-
-See linked document.
-
-Section 3 - Why Counterparty XCP Has Value
-
-https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/edit?usp=sharing
-
-See linked document.
-
-Section 4 - Why MaidSafeCoins Have Value
-
-http://blog.maidsafe.net/2014/05/14/the-economics-of-safecoin/
-
-See linked document.
-
-Section 5 - Why SWARM Coins Will Have Value
-
-https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
-
-See linked document.
-
-Section 6 - Why NXT Have Value
-
-NXT team please provide a link to your document.
-
-Section 7 - Why Rivetz Will Have Value
-
-Rivetz team please provide a link to your document.
-
-Section 8 - Why DERPA Coins Will Have Value
-
-DERPA team please provide a link to your document.
-
-Section 9 - Why Storj Will Have Value
-
-Storj team please provide a link to your document.
-
-Section 10  - Why LTBCOIN Will Have Value
-
-https://docs.google.com/document/d/1r9D3pfv3sbqrNYvTIkRk2cEMEKegTBedVNKjeG6kDc4
-
-See linked document.
-
-Section 11 - Why API Coins Will Have Value
-
-https://github.com/DavidJohnstonCEO/APINetwork/blob/master/README.md
-
-See linked document.
-
-Section 12 - Why Ripple XRP Have Value
-
-https://ripple.com/partners/
-
-See linked document.
-
-Section 13 - Why Permacredits Have Value
-
-https://docs.google.com/document/d/12JZqif8nO-hakiBp82UcEdomkorjVEm_I-VTfXu5WA0/edit
-
-See linked document.
+7. Why NXT Have Value
+8. Why Rivetz Will Have Value
+9. Why DERPA Coins Will Have Value
+10. Why Storj Will Have Value
