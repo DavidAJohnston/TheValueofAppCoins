@@ -274,14 +274,13 @@ Appendix Case Studies
  +5. [Why SWARM Coins Will Have Value](https://docs.google.com/document/d/1UWE4s5mIwCaO3W7hqpd5d392QyUNjsa1j5H2OeIUq5c/edit
  +)
  
- +6. [Why LTBCOIN Will Have Value](https://docs.google).com/document/d/1r9D3pfv3sbqrNYvTIkRk2cEMEKegTBedVNKjeG6kDc4)
+ +6. [Why LTBCOIN Will Have Value](https://docs.google.com/document/d/1r9D3pfv3sbqrNYvTIkRk2cEMEKegTBedVNKjeG6kDc4)
  
  +7. [Why API Coins Will Have Value](https://github.com/DavidJohnstonCEO/APINetwork/blob/master/README.md)
  
  +8. [Why Ripple XRP Have Value](https://ripple.com/partners/)
  
  +9. [Why Permacredits Have Value](https://docs.google.com/document/d/12JZqif8nO-hakiBp82UcEdomkorjVEm_I-VTfXu5WA0/edit)
- +
  
  +TODO:
  
