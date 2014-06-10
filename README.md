@@ -259,7 +259,7 @@ References
 Appendix Case Studies 
 ==========
 
-1. [Why Mastercoins Have Value](https://docs.google.com/document/d/1X_Aofk7JDcEgvHyu2ZQ8_yCykylo-lI2CzDw2lWV0QQ/edit?usp=sharing)
+1. [Why Mastercoins Have Value](https://github.com/mastercoin-MSC/spec/blob/master/WhyMastercoinsHaveValue.md)
 2. [Why Ether Will Have Value](https://docs.google.com/document/d/1yh88h6FRAiB9-1_G0xlz2pvDN1Xo7o376xLkGksLLpg/edit)
 3. [Why Counterparty XCP Has Value](https://docs.google.com/document/d/1rtzporRd-gSWf-H1wvrxdKxqXyr1SwXGzUzFztlBFM8/edit?usp=sharing
 )
