@@ -6,25 +6,18 @@ An open source analysis of App Coins, as a technical and economic means of price
 Authors:
 ==================
 
-David A. Johnston - https://github.com/DavidJohnstonCEO
+- David A. Johnston - https://github.com/DavidJohnstonCEO
+- Joel Dietz - https://github.com/fractastical
+- Ron Gross - https://github.com/ripper234
 
-Joel Dietz - https://github.com/fractastical
+**With input from:**
 
-Ron Gross - https://github.com/ripper234
-
-With input from: 
-
-Peter Todd - https://github.com/petertodd
-
-David Irvine - https://github.com/dirvine
-
-Jeremy Kandah - https://github.com/jkandah
-
-Sam Yilmaz - https://github.com/Onat
-
-J.R. Willet - https://github.com/dacoinminster
-
-Tom Ding - https://github.com/toysrtommy
+- Peter Todd - https://github.com/petertodd
+- David Irvine - https://github.com/dirvine
+- Jeremy Kandah - https://github.com/jkandah
+- Sam Yilmaz - https://github.com/Onat
+- J.R. Willet - https://github.com/dacoinminster
+- Tom Ding - https://github.com/toysrtommy
 
 Introduction:
 ==========
