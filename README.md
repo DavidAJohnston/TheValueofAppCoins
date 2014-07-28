@@ -148,7 +148,7 @@ Traditionally, when a currency is more established (like USD), the suppliers adj
 
 On the other hand, creating a new AppCoin allows the reverse discovery process, i.e. a certain feature of the AppCoin Network  could be pegged at a fixed rate against the AppCoin, e.g. 1 SafeCoin for 1G storage. Then the demand (buyer) would bid on e.g. USD:SafeCoin price to decide its actual value of that 1G storage.
 
-This could become a more efficient process for some product, as pricing signal are manipulated directly by buyers rather than relying on supplier to act (which happens when they don't find enough buyers, a lagged signal). This mostly apply to a highly standardized & commoditized service, where all suppliers's service are equivalent in price (e.g. 1G storage is always 1 SafeCoin) and earn same income, hence no one gets a premium. Many decnetralized applications -- Tor, File storage, computational power, even BitCoin itself (where miner gets compensated at a fix BTC rate) all easily fall into this category.
+This could become a more efficient process for some product, as pricing signal are manipulated directly by buyers rather than relying on supplier to act (which happens when they don't find enough buyers, a lagged signal). This mostly apply to a highly standardized & commoditized service, where all suppliers's service are equivalent in price (e.g. 1G storage is always 1 SafeCoin) and earn same income, hence no one gets a premium. Many decentralized applications -- Tor, File storage, computational power, even BitCoin itself (where miner gets compensated at a fix BTC rate) all easily fall into this category.
 
 On the flip side, this does create the reverse lag of pricing signal on the supply end. E.g., when SafeCoin go below a supplier's storage cost, some suppliers may leave the network (worse, many at same time). Of course, assuming same demand, users discover that storage become unavailable, they'd bid up the SafeCoin price, which encourages new suppliers to join the network. But there'd be a lag.
 
@@ -157,9 +157,9 @@ Every type of currency, esp. those well established ones like USD or BTC, people
 
 Yet sometimes it's important to manipulate that perception in commerce -- esp. enabling "micro" transactions that fall below psychological threshold. Adding an extra layer of currency conversion, we're really cognitively abstracting the true value of the service away from the user, and making them less sensitive to its underlying cost/price. 
 
-Look at example of  FavorDo, an app that allow people to ask for favor and help each other in a social network, with economic reward attached. When you ask for your friends of friends for favor with 50cents attached, people feel very little motivation to help or, worse, insulted. Yet, when you abstract it to 5000 FavorCoins (where the market value of a FavorCoin is really 0.0001), that might fare better. 
+Look at example of  FavorDo, an app that allow people to ask for favor and help each other in a social network, with economic reward attached. When you ask for your friends of friends for favor with 50 cents attached, people feel very little motivation to help or, worse, insulted. Yet, when you abstract it to 5000 FavorCoins (where the market value of a FavorCoin is really 0.0001), that might fare better. 
 
-Airlines mile rewards (e.g. it's not obvious what does 3000 miles really worth) and Doge Coin tipping, are similiar examples. 
+Airlines mile rewards (e.g. it's not obvious what does 3000 miles really worth) and Dogecoin tipping, are similiar examples. 
 
 ####9 Enabling (more) pre-sale of  goods / service
 Holding Currency is like holding on to generic futures of undetermined service, when it comes to AppCoin they're usually a more specific type of futures. E.g. SafeCoin is a futures for some undetermined storage / computation power.
@@ -221,19 +221,21 @@ That said, it is always worth considering App Coins in light of alternative stra
 References
 ==========
 
-1) http://cs.umd.edu/~amiller/permacoin.pdf
+1. http://cs.umd.edu/~amiller/permacoin.pdf
 
-2) https://github.com/petertodd/timelock
+2. https://github.com/petertodd/timelock
 
-3) http://twister.net.co/
+3. http://twister.net.co/
 
-4) [Bitcoin-development] Decentralized digital asset exchange with honest pricing and market depth, Peter Todd, Feb 9th 2014, http://goo.gl/ys5iXE
+4. [Bitcoin-development] Decentralized digital asset exchange with honest pricing and market depth, Peter Todd, Feb 9th 2014, http://goo.gl/ys5iXE
 
-6) NETWORK EFFECTS AND COMPETITION: http://goo.gl/gIWWLJ
+5. [Fidelity-bonded banks: decentralized, auditable, private, off-chain payments - Bitcoin Forum](https://bitcointalk.org/index.php?topic=146307.0)
 
-7) The Future of Crypto Currencies by Andreas Antonopoulos http://youtu.be/SHrjs7VkSGU 
+6. NETWORK EFFECTS AND COMPETITION: http://goo.gl/gIWWLJ
 
-8) U.S. Apple Laptop Marketshare Graph http://goo.gl/sVlzGE
+7. The Future of Crypto Currencies by Andreas Antonopoulos http://youtu.be/SHrjs7VkSGU 
+
+8. U.S. Apple Laptop Marketshare Graph http://goo.gl/sVlzGE
 
 Appendix Case Studies 
 ==========
